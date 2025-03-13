@@ -1,0 +1,28 @@
+{
+    "assistant": {
+        "default_model": {
+            "provider": "google",
+            "model": "gemini-2.0-pro-exp"
+        },
+        "version": "2"
+    },
+    "tab_size": 4,
+    "vim_mode": true,
+    "telemetry": {
+        "metrics": false,
+        "diagnostics": false
+    },
+    "ui_font_size": 16,
+    "ui_font_family": "Comic Mono",
+    "buffer_font_size": 14,
+    "buffer_font_family": "Comic Mono",
+    "theme": {
+        "mode": "system",
+        "light": "One Light",
+        "dark": "One Dark"
+    },
+    "terminal": {
+        "line_height": "standard",
+        "font_size": 14
+    }
+}
