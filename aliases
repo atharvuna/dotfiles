@@ -1,0 +1,12 @@
+alias cls='clear'
+alias h='history'
+alias ll='ls -al'
+
+alias ..='cd ..'
+alias ...='cd ../..'
+
+alias reloadd='source ~/.aliases && source ~/.zshrc'
+
+alias sss='brew search '
+
+alias gs='git status'
