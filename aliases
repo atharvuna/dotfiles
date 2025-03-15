@@ -10,3 +10,11 @@ alias reloadd='source ~/.aliases && source ~/.zshrc'
 alias sss='brew search '
 
 alias gs='git status'
+
+alias l21='vim ~/WIN/INDEX'
+alias ttodo='vim ~/.todo'
+alias path='vim ~/Documents/writing/path'
+
+alias nvim='vim'
+
+alias killchat='killall ChatGPT'

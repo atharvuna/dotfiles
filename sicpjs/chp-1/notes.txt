@@ -1,0 +1,35 @@
+Elements of Programming [ data , func ]:
+- primitive expression
+- means of combination
+- means of abstraction
+
+simple-entities > compound-elemenst > units
+
+two kinds of elements : 
+    data(stuff)
+    function(descriptn of rules) 
+
+enviroment (memory, context, build in abstractions)
+
+[functions]
+function name(parameters) { return expression; }
+function-expression (argument-expression)
+
+    applicative-order vs norman-order
+
+[conditional's]
+predicate ? consequent-expression : alternative-expression
+
+    predicate : operators/functions.return + expressions.evaluate = true/false
+
+computer-function are much effective than mathematical functions
+    declarative-knowledge (math-func: describing properties of things, "what is") 
+    imperative-knowledge  (comp-func: descriving how to do things, "how to")
+
+
+"functions as black box abstractions"
+    bounds, scopes ....
+
+"functions and the processes they generate"
+
+

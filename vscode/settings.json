@@ -1,0 +1,27 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false, 
+    "workbench.enableExperiments": false, 
+    "telemetry.telemetryLevel": "off",
+    "window.zoomLevel": 0,
+    "editor.cursorBlinking": "solid",
+    "editor.fontFamily": "Comic Mono",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "Comic Mono",
+    "terminal.integrated.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": false,
+    "vim.useSystemClipboard": true,
+    "vim.handleKeys": {
+      "<C-c>": false
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "markdown": false,
+        "plaintext": false
+    },
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.inlineSuggest.enabled": true,
+    "editor.fastScroll": true
+}

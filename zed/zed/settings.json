@@ -1,0 +1,19 @@
+{
+  "assistant": {
+    "default_model": {
+      "provider": "google",
+      "model": "gemini-2.0-flash"
+    },
+    "version": "2"
+  },
+  "vim_mode": true,
+  "ui_font_size": 15,
+  "buffer_font_size": 14,
+  "ui_font_family": "Comic Mono",
+  "buffer_font_family": "Comic Mono",
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Ayu Mirage"
+  }
+}
