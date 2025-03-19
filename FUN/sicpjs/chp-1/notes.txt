@@ -1,9 +1,9 @@
-Elements of Programming [ data , func ]:
-- primitive expression
-- means of combination
-- means of abstraction
+Elements of Programming [ data-struct + func ]:
+    - primitive expression
+    - means of combination
+    - means of abstraction
 
-simple-entities > compound-elemenst > units
+simple-entities > compound-elements > units
 
 two kinds of elements : 
     data(stuff)
@@ -15,7 +15,7 @@ enviroment (memory, context, build in abstractions)
 function name(parameters) { return expression; }
 function-expression (argument-expression)
 
-    applicative-order vs norman-order
+    applicative-order vs normal-order
 
 [conditional's]
 predicate ? consequent-expression : alternative-expression

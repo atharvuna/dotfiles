@@ -1,0 +1,35 @@
+[introduction, finite automata]
+
+what is computing ??
+>> 3 main dimensions of computing:
+    theoritical-foundation:
+        computing is fundamentally rooted in the toc, which examines what can be computed and how efficiently it can be done
+        algorithmic-complexity --- resources-required[time, space]
+        automata theory and formal languages
+    practical-applications:
+        [software-development, hardware-design]; layers/algos/structures to solve specific problems
+        programming-paradigms, data-management-techniques, system-architecture
+    inter-disciplinary connections:
+        computing is inherently interdisciplinary[ai, hci, quantum, edge, signal-processing]
+
+theoretical foundation major branches: 
+    automata theory and formal languages:
+
+        [https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html]
+        automaton (automata):
+        : mathematical model of computation that describes a system capable of processing inputs to produce outputs based on defined rules and has the ability to transition between different states according to certain inputs
+            components: states, input-alphabet, transition-func, initial-state, final-state
+            types: 
+                finite-automata(DFA, NFA):
+                - process regular-languages
+                pushdown-automata:
+                - extends finite-automata by incoporating a stack of memory
+                - process context-free-languages
+                turing-machines:
+                - consists of an infinite tape and a read/write head
+                - process recursively enumerable languages and define the limits of what is computable
+            
+
+        
+    computability theory:
+    computational complexity theory:

@@ -3,7 +3,6 @@
     
 // let result = condition ? value1 : value2;
 
-
 const num = -12;
 
 function check(x) {

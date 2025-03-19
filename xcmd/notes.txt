@@ -1,0 +1,29 @@
+xcmd {
+    "new interaction layer for x.com"  ::  [ command-palette + keyboard-shortcuts + query/truth(pp, gg, gemini ...) ]
+        abstracted quality-tools composed in it : screenshot-tweet, truth-checker, xfps/ping, themes(community), vi-mode 
+}
+
+src/extension {
+    manifest-v3 ["read"]:
+        background-pages >> service workers; for reducing resource usage and improving performance
+    Shadow DOM encapsulation
+    Event-Driven Architecture:
+    User Inputs >> DOM Events >> API calls
+}
+
+ideas {
+    abstract.color.bg|tweet === unread.new/bookmarked [scope]
+}
+
+
+
+
+
+
+[CMD]
+- why cmd ??
+- design ?? dynamics ??
+references {
+60,38,620.00    vscode, xcode, obsidian, windows-terminal, 
+    superhuman, 
+}

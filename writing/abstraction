@@ -1,0 +1,23 @@
+computer-sys-abstraction:
+    base-logical-system of gates/and-or
+
+    cpu-design/arch, processor
+        idea components which make a comp with cpu
+    motherboard holding the cpu, soc(system-on-chip)
+    cpu-arch(x86, arm, risc-v): manufactures ..
+
+    {{ a basic risc-v cpu }}
+
+    ---------- TEST IF YOU REALLY KNOW BY ----------
+    from the transistors; geohot
+
+    programming: (paradigms)
+        assembly, c, python
+        vertilog
+
+
+
+questions {
+    when is a "thing" called turing complete ??
+
+}
